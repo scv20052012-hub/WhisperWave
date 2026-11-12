@@ -1,0 +1,12 @@
+{
+  "name": "WhisperWave - Mensajería y Llamadas Cifradas",
+  "description": "App de mensajería y videollamadas cifradas de extremo a extremo con inicio de sesión de Google sin requerir número de teléfono.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
